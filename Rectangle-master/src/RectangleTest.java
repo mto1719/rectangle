@@ -6,7 +6,7 @@ public class RectangleTest {
 	{
 		//look in Rectangle API under constructors to find what Rectangle(5,10,20,30) does
 		Rectangle box = new Rectangle(5, 10, 20, 30);
-		//sets box with x,y,width,height dimensions
+		//sets box with x,y position and width and height dimensions
 		
 		//TODO Move the rectangle (use a method from the API to move the rectangle
 		//                          by changing both the x and y coordinates)
